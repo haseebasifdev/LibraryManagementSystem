@@ -1,1 +1,1 @@
-This is My Term
+This is My Term Project
