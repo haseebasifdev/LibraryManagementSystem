@@ -99,7 +99,7 @@
       
       ?>">
       <div class="form-group" >
-          <label for="inoutemail" >Enter Your Email</label>
+          <label for="inoutemail" >Enter your Email</label>
       <input
       type="email"
       name="email"
@@ -111,7 +111,7 @@
       </div>
       
       <div class="form-group" >
-      <label for="inputemail" >Enter Your Password</label></label>
+      <label for="inputemail" >Enter your Password</label></label>
       <input
       type="password"
       name="password"
