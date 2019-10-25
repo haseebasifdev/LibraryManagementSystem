@@ -1,1 +1,1 @@
-This is My Term Project
+This is My Term Project of Software Engineering Subject.
